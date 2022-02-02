@@ -1,2 +1,2 @@
 # Nashville-Housing-Data-Cleaning
-Data cleaning by eliminating duplicate and null records
+Cleaned housing data by eliminating duplicate and null records and changed datatypes of columns to appropriate type.
