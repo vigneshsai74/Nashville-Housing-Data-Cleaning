@@ -1,2 +1,2 @@
 # Nashville-Housing-Data-Cleaning
-Housing Data cleaning using SQL 
+Data cleaning by eliminating duplicate and null records
